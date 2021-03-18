@@ -7,3 +7,7 @@
 - 💬 Ask me about Linux, Google Cloud
 - 📫 How to reach me: [linkedin.com/in/ronoaldo](https://linkedin.com/in/ronoaldo)
 - ⚡ Fun fact: I was a.k.a. Harry in the past...
+
+# $ top
+
+![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ronoaldo&theme=monokai&column=4&&no-frame=true)
