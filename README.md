@@ -10,4 +10,4 @@
 
 # $ top
 
-![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ronoaldo&theme=monokai&column=4&&no-frame=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=ronoaldo&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
