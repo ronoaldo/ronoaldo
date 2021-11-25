@@ -11,3 +11,4 @@
 # ronoaldo@life $ top
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=ronoaldo&theme=monokai&column=4&&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://hit.yhype.me/github/profile?user_id=564649)
